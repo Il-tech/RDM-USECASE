@@ -1,0 +1,5 @@
+com\rdm\usecase\Integration\VehicleServiceIntegrationTest.class
+com\rdm\usecase\service\GarageServiceImplTest.class
+com\rdm\usecase\service\AccessoryServiceImplTest.class
+com\rdm\usecase\MsGarageApplicationTests.class
+com\rdm\usecase\service\VehicleServiceImplTest.class
